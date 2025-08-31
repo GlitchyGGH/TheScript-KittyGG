@@ -1,5 +1,0 @@
-sc delete "Sophos MCS Client"
-sc delete "Sophos MCS Agent"
-sc delete "Sophos Endpoint Defense Service"
-sc delete "Sophos Clean Service"
-sc delete "HitmanPro.Alert service"
